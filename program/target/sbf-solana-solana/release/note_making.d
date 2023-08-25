@@ -1,0 +1,1 @@
+/Users/dre/Desktop/test/program/target/sbf-solana-solana/release/note_making.so: /Users/dre/Desktop/test/program/src/instruction.rs /Users/dre/Desktop/test/program/src/lib.rs /Users/dre/Desktop/test/program/src/state.rs
